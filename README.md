@@ -12,4 +12,22 @@ Reference: Fader, Peter S. and Bruce G.,S. Hardie, (2001), "Forecasting Repeat S
 
 ### [Streamlit GUI for this project](https://datascienceproject-mvbfmah86b8dgzdu67yxps.streamlit.app/)
 
+## [2. Preprocessing and Visualization Tool with Streamlit](https://prep-viz-tool.streamlit.app/)
+The tool is designed to address the challenges of data cleansing and analysis quickly, timely, and accurately. Additionally, it integrates several applications to enhance data visualization, serving reporting or meeting purposes.
+
+The tool is built on a user-friendly platform for users without programming experience in Python. The goal of the tool is to help users conveniently and efficiently handle data errors and deficiencies and perform quick analysis steps. The tool currently integrates the following applications:
+
+A. Data cleansing:
+*1. Identify and clean outliers.
+*2. Clean text containing special characters.
+*3. Filter "Other" responses outside of the available options for multiple-choice questions.
+*4. Delete any specific phrases within a paragraph while preserving the rest if they stand alone.
+*5. Filter and calculate ranking questions in surveys.
+*6. Filter and count unique values.
+*7. Count the frequency of any word/phrase/sentence.
+
+B. Data visualization:
+*1. Generate QR codes and insert logos/images.
+*2. Create word clouds based on frequency.
+
 
