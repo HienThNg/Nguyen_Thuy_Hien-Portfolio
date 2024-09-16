@@ -34,4 +34,12 @@ B. Data visualization:
 Create a Recommender System for an E-commerce website.
 Model include: Content based filtering (Cosine, Gensim) and Collaborative filtering (ALS).
 
+## 4.Sentiment analysis (NLP) – E-commerce  
+Create a Customer Sentiment Model for an E-commerce website using Machine Learning and Big Data models.
+
+## 5. Landscape Detection – YOLOv8
+
+## 6. RNN – LSTM – NLP –  Sentiment analysis
+
+
 
