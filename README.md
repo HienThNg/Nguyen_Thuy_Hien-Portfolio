@@ -18,16 +18,16 @@ The tool is designed to address the challenges of data cleansing and analysis qu
 The tool is built on a user-friendly platform for users without programming experience in Python. The goal of the tool is to help users conveniently and efficiently handle data errors and deficiencies and perform quick analysis steps. The tool currently integrates the following applications:
 
 A. Data cleansing:
-*1. Identify and clean outliers.
-*2. Clean text containing special characters.
-*3. Filter "Other" responses outside of the available options for multiple-choice questions.
-*4. Delete any specific phrases within a paragraph while preserving the rest if they stand alone.
-*5. Filter and calculate ranking questions in surveys.
-*6. Filter and count unique values.
-*7. Count the frequency of any word/phrase/sentence.
+1. Identify and clean outliers.
+2. Clean text containing special characters.
+3. Filter "Other" responses outside of the available options for multiple-choice questions.
+4. Delete any specific phrases within a paragraph while preserving the rest if they stand alone.
+5. Filter and calculate ranking questions in surveys.
+6. Filter and count unique values.
+7. Count the frequency of any word/phrase/sentence.
 
 B. Data visualization:
-*1. Generate QR codes and insert logos/images.
-*2. Create word clouds based on frequency.
+1. Generate QR codes and insert logos/images.
+2. Create word clouds based on frequency.
 
 
