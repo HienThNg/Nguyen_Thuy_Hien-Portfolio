@@ -40,11 +40,11 @@ Model include:
 * Content-based filtering - Gensim
 * Collaborative filtering - ALS
 
-## (4. Sentiment analysis (NLP) – E-commerce)[https://github.com/HienThNg/Sentiment-analysis-NLP-E-commerce]
+## (4. Sentiment analysis – E-commerce)[https://github.com/HienThNg/Sentiment-analysis-NLP-E-commerce]
 
-Build Customer Sentiment Models for an E-commerce website to support classifying customer feedback into groups: positive, negative, neutral based on text data.
+Develop customer sentiment models for an e-commerce platform to classify customer feedback as positive, negative, or neutral using text data. 
 
-The database is from one of the top-ranking E-commerce websites in Vietnam.
+The dataset comes from a leading e-commerce site in Vietnam.
 
 ## 5. Landscape Detection – YOLOv8
 
