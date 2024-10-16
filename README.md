@@ -35,7 +35,10 @@ Create a Recommender System for an E-commerce website.
 
 The database is from one of the top-ranking E-commerce websites in Vietnam.
 
-Model include: Content based filtering (Cosine, Gensim) and Collaborative filtering (ALS).
+Model include: 
+* Content based filtering - Cosine
+* Content based filtering - Gensim
+* Collaborative filtering - ALS
 
 ## 4.Sentiment analysis (NLP) – E-commerce  
 Create a Customer Sentiment Model for an E-commerce website using Machine Learning and Big Data models.
