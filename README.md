@@ -30,8 +30,11 @@ B. Data visualization:
 1. Generate QR codes and insert logos/images.
 2. Create word clouds based on frequency.
 
-## 3. Recommender System – E-commerce
+## [3. Recommender System – E-commerce](https://github.com/HienThNg/Recommender-System-E-commerce)
 Create a Recommender System for an E-commerce website.
+
+The database is from one of the top-ranking E-commerce websites in Vietnam.
+
 Model include: Content based filtering (Cosine, Gensim) and Collaborative filtering (ALS).
 
 ## 4.Sentiment analysis (NLP) – E-commerce  
