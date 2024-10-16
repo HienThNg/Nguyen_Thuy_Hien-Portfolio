@@ -51,11 +51,17 @@ The dataset comes from a leading e-commerce site in Vietnam.
 
 The dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/landscape-recognition-image-dataset-12k-images/data
 
-For this project, I will only use the Coast and Desert categories, with a total of 5,000 images. Transfer learning will be applied using the VGG16 model to classify each category.
+For this project, I only used the Coast and Desert categories, with a total of 5,000 images. Transfer learning will be applied using the VGG16 model to classify each category.
 
-## 5. YOLOv8 - Landscape Detection
+## [6. YOLOv8 - Landscape Detection](https://github.com/HienThNg/YOLOv8---Landscape-Detection)
 
-## 6. RNN – LSTM – NLP –  Sentiment analysis
+The dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/landscape-recognition-image-dataset-12k-images/data
+
+Annotations were done using Roboflow: https://universe.roboflow.com/landscape-vrtyz/landscape-4plj0
+
+In this project, I focused on the Coast and Desert categories and used Roboflow to detect objects in the images. The annotated classes include objects commonly found in these environments, such as people, rocks, grass, houses, cacti, sand dunes, and more.
+
+## 7. RNN – LSTM – NLP –  Sentiment analysis
 
 
 
