@@ -36,12 +36,15 @@ Create a Recommender System for an E-commerce website.
 The database is from one of the top-ranking E-commerce websites in Vietnam.
 
 Model include: 
-* Content based filtering - Cosine
-* Content based filtering - Gensim
+* Content-based filtering - Cosine
+* Content-based filtering - Gensim
 * Collaborative filtering - ALS
 
-## 4.Sentiment analysis (NLP) – E-commerce  
-Create a Customer Sentiment Model for an E-commerce website using Machine Learning and Big Data models.
+## (4. Sentiment analysis (NLP) – E-commerce)[https://github.com/HienThNg/Sentiment-analysis-NLP-E-commerce]
+
+Build Customer Sentiment Models for an E-commerce website to support classifying customer feedback into groups: positive, negative, neutral based on text data.
+
+The database is from one of the top-ranking E-commerce websites in Vietnam.
 
 ## 5. Landscape Detection – YOLOv8
 
