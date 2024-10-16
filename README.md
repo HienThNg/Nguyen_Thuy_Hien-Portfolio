@@ -40,7 +40,7 @@ Model include:
 * Content-based filtering - Gensim
 * Collaborative filtering - ALS
 
-## (4. Sentiment analysis – E-commerce)[https://github.com/HienThNg/Sentiment-analysis-NLP-E-commerce]
+## [4. Sentiment analysis (NLP) – E-commerce](https://github.com/HienThNg/Sentiment-analysis-NLP-E-commerce)
 
 Develop customer sentiment models for an e-commerce platform to classify customer feedback as positive, negative, or neutral using text data. 
 
