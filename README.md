@@ -1,4 +1,4 @@
-# Nguyen Thuy Hien's portfolio
+![image](https://github.com/user-attachments/assets/441283a9-d2f3-48ee-ad64-55a62626163e)# Nguyen Thuy Hien's portfolio
 
 ## [1. Classification – Customer Segmentation - CDNOW](https://github.com/HienThNg/CDNOW)
 The file CDNOW_master.txt contains the entire purchase history up to the end of June 1998 of the cohort of 23,570 individuals who made their first-ever purchase at CDNOW in the first quarter of 1997. This CDNOW dataset was first used by Fader and Hardie (2001).
@@ -61,7 +61,14 @@ Annotations were done using Roboflow: https://universe.roboflow.com/landscape-vr
 
 In this project, I focused on the Coast and Desert categories and used Roboflow to detect objects in the images. The annotated classes include objects commonly found in these environments, such as people, rocks, grass, houses, cacti, sand dunes, and more.
 
-## 7. RNN – LSTM – NLP –  Sentiment analysis
+## [7. RNN – LSTM – NLP –  Sentiment analysis](https://github.com/HienThNg/RNN-LSTM-NLP-Sentiment-analysis)
 
+The dataset: http://jmcauley.ucsd.edu/data/amazon/
+
+For this project, I used the Clothing, Shoes, and Jewelry dataset to build a model for predicting customer sentiment. 
+
+The model classifies reviews into two categories: "like" for 4 or 5-star ratings, and "dislike" for 1 or 2-star ratings. 
+
+The model is based on LSTM using text data.
 
 
