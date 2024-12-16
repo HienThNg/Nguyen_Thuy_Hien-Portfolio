@@ -9,7 +9,7 @@ Reference: Fader, Peter S. and Bruce G.,S. Hardie, (2001), "Forecasting Repeat S
 
 #### This project used **RFM analysis, RFM + Kmeans (ML),  RFM + Hierarchical Clustering (ML) and RFM + Kmeans (Big Data)** to classify CDNOW customers.
 
-### [Streamlit GUI for this project](https://datascienceproject-mvbfmah86b8dgzdu67yxps.streamlit.app/)
+### [Streamlit GUI for this project](https://datascienceproject-cdnow.streamlit.app/)
 
 ## [2. Preprocessing and Visualization Tool with Streamlit](https://prep-viz-tool.streamlit.app/)
 The tool is designed to address the challenges of data cleansing and analysis quickly, timely, and accurately. Additionally, it integrates several applications to enhance data visualization, serving reporting or meeting purposes.
