@@ -1,3 +1,5 @@
+# [Portfolio website](https://hienthng.github.io/Nguyen_Thuy_Hien-Portfolio/)
+
 
 ## [1. Classification – Customer Segmentation - CDNOW](https://github.com/HienThNg/CDNOW)
 The file CDNOW_master.txt contains the entire purchase history up to the end of June 1998 of the cohort of 23,570 individuals who made their first-ever purchase at CDNOW in the first quarter of 1997. This CDNOW dataset was first used by Fader and Hardie (2001).
