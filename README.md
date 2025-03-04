@@ -31,6 +31,8 @@ B. Data visualization:
 1. Generate QR codes and insert logos/images.
 2. Create word clouds based on frequency.
 
+### [Instructions for using the tool](https://drive.google.com/file/d/1aTI6oxjV7LveE-htiNw8VUmWo9DYToUI/view)
+
 ## [3. Recommender System – E-commerce](https://github.com/HienThNg/Recommender-System-E-commerce)
 Create a Recommender System for an E-commerce website.
 
